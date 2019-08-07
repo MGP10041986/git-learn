@@ -1,4 +1,4 @@
-howdy local + remote
+adios remote
 first modification
 second modification
 Third mod from local
