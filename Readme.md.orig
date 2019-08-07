@@ -1,8 +1,9 @@
 hello
 first modification
 second modification
+Third mod from local
 <<<<<<< HEAD
 third modification from remote
 =======
-Third mod from local
->>>>>>> third mod to readme from local
+fouth mod from local
+>>>>>>> fourth mod to readme from local
